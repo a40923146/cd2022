@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-12T22:00:10+08:00</updated><entry><title>w6_40923146</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-12T22:00:10+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-06:./w6_40923146.html.html</id><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-12T22:06:42+08:00</updated><entry><title>w7_summary</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-12T22:06:42+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
 &lt;p&gt;W2:分組&lt;/p&gt;
 &lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
 &lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
 &lt;p&gt;W6:連接blog&lt;/p&gt;
-</content><category term="Misc"></category><category term="w6_40923146"></category></entry><entry><title>w7_summary</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-12T21:58:45+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-12T22:06:42+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-03-30:./w6_40923146.html.html</id><summary type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
 &lt;p&gt;W2:分組&lt;/p&gt;
 &lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
 &lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
 &lt;p&gt;W6:連接blog&lt;/p&gt;
-</content><category term="Misc"></category><category term="w7_summary"></category></entry></feed>
+</summary><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+&lt;p&gt;W2:分組&lt;/p&gt;
+&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
+&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
+&lt;p&gt;W6:連接blog&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Title: w6_40923146
+Date: 2022-04-06 11:00
+Category: Misc
+Tags: w6_40923146
+Slug: w6_40923146.html
+Author: 張智程&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+&lt;p&gt;W2:分組&lt;/p&gt;
+&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
+&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
+&lt;p&gt;W6:連接blog&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
