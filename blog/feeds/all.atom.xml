@@ -1,11 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-12T22:20:04+08:00</updated><entry><title>w7_summary</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-12T22:20:04+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><content type="html">&lt;p&gt;W7機械手臂&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-16T10:33:55+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./midterm.html.html" rel="alternate"></link><published>2022-04-13T11:00:00+08:00</published><updated>2022-04-16T10:33:55+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-13:./midterm.html.html</id><summary type="html">&lt;p&gt;這次期中檢驗，我被分配到使用NX繪製零組件&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;這次期中檢驗，我被分配到使用NX繪製零組件&lt;/p&gt;
+
+&lt;hr&gt;
+&lt;p&gt;Title: w7_summary
+Date: 2022-04-06 11:00
+Category: Misc
+Tags: 2022SpringCD
+Slug: w7_summary
+Author: 張智程&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W7機械手臂&lt;/p&gt;
 &lt;p&gt;每個組員會分配到不同的繪圖軟體&lt;/p&gt;
 &lt;p&gt;繪圖軟體有&lt;a href="https://solvespace.com/index.pl"&gt;Solvespace&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX12.html"&gt;NX12&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX1980.html"&gt;NX1980&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX2008.html"&gt;NX2008&lt;/a&gt; 與 &lt;a href="https://www.onshape.com/en/"&gt;Onshape&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;用繪圖軟體繪製出Pick and Place demo範例所需的零組件&lt;/p&gt;
 &lt;p&gt;將零件組裝好後&lt;/p&gt;
 &lt;p&gt;並利用Coppeliasim模擬機械運轉&lt;/p&gt;
-</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-12T22:06:42+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-03-30:./w6_40923146.html.html</id><summary type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>w7_summary</title><link href="./w7_summary.html" rel="alternate"></link><published>2022-04-06T11:00:00+08:00</published><updated>2022-04-12T22:20:04+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-06:./w7_summary.html</id><content type="html">&lt;p&gt;W7機械手臂&lt;/p&gt;
+&lt;p&gt;每個組員會分配到不同的繪圖軟體&lt;/p&gt;
+&lt;p&gt;繪圖軟體有&lt;a href="https://solvespace.com/index.pl"&gt;Solvespace&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX12.html"&gt;NX12&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX1980.html"&gt;NX1980&lt;/a&gt;、&lt;a href="https://mde.tw/cd2022_guide/content/NX2008.html"&gt;NX2008&lt;/a&gt; 與 &lt;a href="https://www.onshape.com/en/"&gt;Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;用繪圖軟體繪製出Pick and Place demo範例所需的零組件&lt;/p&gt;
+&lt;p&gt;將零件組裝好後&lt;/p&gt;
+&lt;p&gt;並利用Coppeliasim模擬機械運轉&lt;/p&gt;
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-16T10:33:55+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-03-30:./w6_40923146.html.html</id><summary type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
 &lt;p&gt;W2:分組&lt;/p&gt;
 &lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
 &lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
@@ -16,6 +33,20 @@
 &lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
 &lt;p&gt;W6:連接blog&lt;/p&gt;
 
+&lt;hr&gt;
+&lt;p&gt;Title: 2022 Spring CD 課程
+Date: 2022-03-30 11:00
+Category: Misc
+Tags: 2022SpringCD
+Slug: w6_40923146.html
+Author: 張智程&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+&lt;p&gt;W2:分組&lt;/p&gt;
+&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
+&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
+&lt;p&gt;W6:連接blog&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 &lt;hr&gt;
 &lt;p&gt;Title: w6_40923146
 Date: 2022-04-06 11:00
