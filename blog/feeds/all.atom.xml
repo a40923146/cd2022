@@ -1,7 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-16T10:33:55+08:00</updated><entry><title>2022 Spring CD 課程</title><link href="./midterm.html.html" rel="alternate"></link><published>2022-04-13T11:00:00+08:00</published><updated>2022-04-16T10:33:55+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-13:./midterm.html.html</id><summary type="html">&lt;p&gt;這次期中檢驗，我被分配到使用NX繪製零組件&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;這次期中檢驗，我被分配到使用NX繪製零組件&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2022-04-17T16:48:06+08:00</updated><entry><title>midterm</title><link href="./midterm.html.html" rel="alternate"></link><published>2022-04-13T11:00:00+08:00</published><updated>2022-04-17T16:48:06+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-04-13:./midterm.html.html</id><summary type="html">&lt;p&gt;ag3分配:&lt;/p&gt;
+&lt;p&gt;NX: &lt;a href="https://40923111.github.io/cd2022/blog/index.html"&gt;40923111&lt;/a&gt;、&lt;a href="https://40923122.github.io/cd2022/blog/index.html"&gt;40923122&lt;/a&gt;、&lt;a href="https://a40923146.github.io/cd2022/blog/index.html"&gt;40923146&lt;/a&gt;
+Onshape: &lt;a href="https://jason60714.github.io/cd2022/blog/index.html"&gt;40923115&lt;/a&gt;、&lt;a href="https://40923114.github.io/cd2022/blog/index.html"&gt;40923114&lt;/a&gt;
+Solvespace: &lt;a href="https://40923148.github.io/cd2022/blog/index.html"&gt;40923148&lt;/a&gt;、&lt;a href="https://40923129.github.io/cd2022/blog/index.html"&gt;40923129&lt;/a&gt;、&lt;a href="https://cyc40923109.github.io/cd2022/blog/index.html"&gt;40923209&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;流程:
+1.至&lt;a href="https://mde.tw/cd2022_guide/content/w8%20%E4%BB%BB%E5%8B%99.html"&gt;w8任務頁面&lt;/a&gt;下載零件檔。
+2.使用已分配的繪圖程式將零件繪出。
+3.將零件檔轉為dwg檔，使用AutoCAD確認尺寸
+4.繪製零件
+5.將零件檔結合輸出成組合圖.STL。
+6.將已繪製好的組合圖匯入 CoppeliaSim。
+7.嘗試使用 CoppeliaSim設定並操作前三軸&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+  這次期中考題目，我被分配到使用NX繪製零件，NX是從之前就有慢慢在學習了，尺寸我是將零件轉.dwg檔，然後使用AutoCAD確定零件尺寸，這部分算是製圖部分最麻煩的地方。
+&lt;/code&gt;&lt;/pre&gt;
 
+</summary><content type="html">&lt;p&gt;ag3分配:&lt;/p&gt;
+&lt;p&gt;NX: &lt;a href="https://40923111.github.io/cd2022/blog/index.html"&gt;40923111&lt;/a&gt;、&lt;a href="https://40923122.github.io/cd2022/blog/index.html"&gt;40923122&lt;/a&gt;、&lt;a href="https://a40923146.github.io/cd2022/blog/index.html"&gt;40923146&lt;/a&gt;
+Onshape: &lt;a href="https://jason60714.github.io/cd2022/blog/index.html"&gt;40923115&lt;/a&gt;、&lt;a href="https://40923114.github.io/cd2022/blog/index.html"&gt;40923114&lt;/a&gt;
+Solvespace: &lt;a href="https://40923148.github.io/cd2022/blog/index.html"&gt;40923148&lt;/a&gt;、&lt;a href="https://40923129.github.io/cd2022/blog/index.html"&gt;40923129&lt;/a&gt;、&lt;a href="https://cyc40923109.github.io/cd2022/blog/index.html"&gt;40923209&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;流程:
+1.至&lt;a href="https://mde.tw/cd2022_guide/content/w8%20%E4%BB%BB%E5%8B%99.html"&gt;w8任務頁面&lt;/a&gt;下載零件檔。
+2.使用已分配的繪圖程式將零件繪出。
+3.將零件檔轉為dwg檔，使用AutoCAD確認尺寸
+4.繪製零件
+5.將零件檔結合輸出成組合圖.STL。
+6.將已繪製好的組合圖匯入 CoppeliaSim。
+7.嘗試使用 CoppeliaSim設定並操作前三軸&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;  這次期中考題目，我被分配到使用NX繪製零件，NX是從之前就有慢慢在學習了，尺寸我是將零件轉.dwg檔，然後使用AutoCAD確定零件尺寸，這部分算是製圖部分最麻煩的地方。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+
+
+&lt;hr&gt;
+&lt;p&gt;Title: midterm
+Date: 2022-04-13 11:00
+Category: Misc
+Tags: 2022SpringCD
+Slug: midterm.html
+Author: 張智程&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;這次期中檢驗，我被分配到使用NX繪製零組件&lt;/p&gt;
+&lt;!-- PELICAN_END_SUMMARY --&gt;
 &lt;hr&gt;
 &lt;p&gt;Title: w7_summary
 Date: 2022-04-06 11:00
@@ -22,42 +63,9 @@ Author: 張智程&lt;/p&gt;
 &lt;p&gt;用繪圖軟體繪製出Pick and Place demo範例所需的零組件&lt;/p&gt;
 &lt;p&gt;將零件組裝好後&lt;/p&gt;
 &lt;p&gt;並利用Coppeliasim模擬機械運轉&lt;/p&gt;
-</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-16T10:33:55+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-03-30:./w6_40923146.html.html</id><summary type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry><entry><title>2022 Spring CD 課程</title><link href="./w6_40923146.html.html" rel="alternate"></link><published>2022-03-30T11:00:00+08:00</published><updated>2022-04-17T16:40:53+08:00</updated><author><name>張智程</name></author><id>tag:None,2022-03-30:./w6_40923146.html.html</id><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
 &lt;p&gt;W2:分組&lt;/p&gt;
 &lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
 &lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
 &lt;p&gt;W6:連接blog&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
-&lt;p&gt;W2:分組&lt;/p&gt;
-&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
-&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
-&lt;p&gt;W6:連接blog&lt;/p&gt;
-
-&lt;hr&gt;
-&lt;p&gt;Title: 2022 Spring CD 課程
-Date: 2022-03-30 11:00
-Category: Misc
-Tags: 2022SpringCD
-Slug: w6_40923146.html
-Author: 張智程&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
-&lt;p&gt;W2:分組&lt;/p&gt;
-&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
-&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
-&lt;p&gt;W6:連接blog&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;
-&lt;hr&gt;
-&lt;p&gt;Title: w6_40923146
-Date: 2022-04-06 11:00
-Category: Misc
-Tags: w6_40923146
-Slug: w6_40923146.html
-Author: 張智程&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;W1:創建倉儲以及連接隨身的系統&lt;/p&gt;
-&lt;p&gt;W2:分組&lt;/p&gt;
-&lt;p&gt;W3:製作NX作業的Wink&lt;/p&gt;
-&lt;p&gt;W4:製作NX作業的ppt&lt;/p&gt;
-&lt;p&gt;W6:連接blog&lt;/p&gt;
-&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
+</content><category term="Misc"></category><category term="2022SpringCD"></category></entry></feed>
