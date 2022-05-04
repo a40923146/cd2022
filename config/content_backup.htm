@@ -373,3 +373,55 @@ var winkVideoData = {
 <p>W10:在老師的Wink上添加註解</p>
 <p><strong>心得</strong>:對影片進行註解非常重要，因為每個人的想法不盡相同，可以透過別人的註解對事情進行</p>
 <p>更多方面理解</p>
+<p></p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 825, y: 346, width: 60, height: 24 }, target: 3 },
+    ],
+    "255": [
+      { type: "gotoframe", rect: { x: 245, y: 293, width: 60, height: 24 }, target: 256 },
+      { type: "gotoframe", rect: { x: 173, y: 293, width: 60, height: 24 }, target: 2 },
+    ],
+    "565": [
+      { type: "gotoframe", rect: { x: 793, y: 392, width: 60, height: 24 }, target: 255 },
+      { type: "gotoframe", rect: { x: 871, y: 392, width: 60, height: 24 }, target: 566 },
+    ],
+    "844": [
+      { type: "gotoframe", rect: { x: 411, y: 478, width: 60, height: 24 }, target: 565 },
+      { type: "gotoframe", rect: { x: 486, y: 478, width: 60, height: 24 }, target: 845 },
+    ],
+    "1085": [
+      { type: "gotoframe", rect: { x: 409, y: 213, width: 60, height: 24 }, target: 844 },
+      { type: "gotoframe", rect: { x: 479, y: 213, width: 60, height: 24 }, target: 1086 },
+    ],
+    "1200": [
+      { type: "gotoframe", rect: { x: 348, y: 365, width: 60, height: 24 }, target: 1085 },
+      { type: "gotoframe", rect: { x: 422, y: 365, width: 60, height: 24 }, target: 1201 },
+    ],
+    "1365": [
+      { type: "gotoframe", rect: { x: 764, y: 545, width: 60, height: 24 }, target: 1200 },
+      { type: "gotoframe", rect: { x: 836, y: 545, width: 60, height: 24 }, target: 1366 },
+    ],
+    "1522": [
+      { type: "gotoframe", rect: { x: 337, y: 510, width: 60, height: 24 }, target: 1365 },
+    ],
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" height="606" loop="loop" muted="" playsinline="" width="968">
+<source src="./../downloads/w10_block_ui.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+</div>
