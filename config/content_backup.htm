@@ -459,7 +459,51 @@ var winkVideoData = {
 <p><img alt="" height="728" src="/images/模擬照片.png" width="1345"/></p>
 <p></p>
 <p>下載 CoppeliaSim4.3.0並且更改python路徑</p>
-<p></p><h1>w16</h1>
+<p></p>
+<p></p>
+<script>
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "59": [
+      { type: "gotoframe", rect: { x: 1095, y: 282, width: 60, height: 24 }, target: 60 },
+    ],
+    "644": [
+      { type: "gotoframe", rect: { x: 443, y: 512, width: 60, height: 24 }, target: 645 },
+      { type: "gotoframe", rect: { x: 364, y: 513, width: 60, height: 24 }, target: 59 },
+    ],
+    "921": [
+      { type: "gotoframe", rect: { x: 418, y: 487, width: 60, height: 24 }, target: 644 },
+      { type: "gotoframe", rect: { x: 493, y: 486, width: 60, height: 24 }, target: 922 },
+    ],
+    "1112": [
+      { type: "gotoframe", rect: { x: 116, y: 246, width: 60, height: 24 }, target: 921 },
+      { type: "gotoframe", rect: { x: 186, y: 245, width: 60, height: 24 }, target: 1113 },
+    ],
+    "1214": [
+      { type: "gotoframe", rect: { x: 816, y: 354, width: 60, height: 24 }, target: 1112 },
+      { type: "gotoframe", rect: { x: 890, y: 354, width: 60, height: 24 }, target: 1215 },
+    ],
+    "1525": [
+      { type: "gotoframe", rect: { x: 742, y: 265, width: 60, height: 24 }, target: 1214 },
+    ],
+  },
+};
+</script>
+<div class="winkVideoContainerClass"><video autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" height="730" loop="loop" muted="" playsinline="" width="1346">
+<source src="./../downloads/w14.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+</div><h1>w16</h1>
 <p>第一題：</p>
 <p>1.使用 coppeliaSim_4.3.0 將 uarm_nx_tkinter_gui_control.ttt 打開，並且按下啟動鍵</p>
 <p>2.使用 <span>SciTE 將 </span>uarm_tkinter_control.py 啟動，啟動後按下 <span>to cannect 等待一下，沒有跑出錯誤的話就可以使用 uarm_tkinter_control.py 在外部控制 uarm_nx_tkinter_gui_control.ttt 的機械手臂了。</span></p>
